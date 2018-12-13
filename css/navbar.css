@@ -1,3 +1,11 @@
-#nav-content {
-    margin-left: 10%
+.navbar {
+    position: static;
+    float: left;
+    color:whitesmoke;
+}
+.navbar-brand{
+    color:whitesmoke;
+}
+.nav-link{
+    color:whitesmoke;
 }
