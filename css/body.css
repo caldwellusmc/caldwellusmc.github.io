@@ -3,4 +3,10 @@ body {
     color:black;
     height: 100%;
 }
+.sectionsize{
+    height: 500px;
+}
+.expsectionsize{
+    height: 250px;
+}
     
