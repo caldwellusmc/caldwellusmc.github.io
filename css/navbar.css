@@ -1,11 +1,21 @@
 .navbar {
-    position: static;
+    /* position: fixed; */
     float: left;
     color:whitesmoke;
+    z-index: 1;
 }
 .navbar-brand{
     color:whitesmoke;
 }
 .nav-link{
     color:whitesmoke;
+}
+.navbar-b{
+    transition: all .5s ease-in-out;
+    background-color: transparent;
+}
+.navbar-b.navbar-reduced{
+    transition: all .5s ease-in-out;
+    background-color: white;
+
 }
